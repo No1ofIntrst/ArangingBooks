@@ -1,6 +1,12 @@
 import java.util.Scanner;
 import java.lang.Math;
 
+/**
+ * This file should take in a string like "LSM"
+ * And tell how many swaps are needed to get it in descending order
+ * Like "LMS"
+ */
+
 public class Main {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
